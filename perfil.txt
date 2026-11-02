@@ -1,0 +1,2 @@
+Color favorito: azul
+color favorito: rojito
